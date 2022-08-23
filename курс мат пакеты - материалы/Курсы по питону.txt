@@ -1,0 +1,33 @@
+https://www.coursera.org/learn/python-osnovy-programmirovaniya - Основы программирования на Python. (Полный бесплатный доступ.)
+автор: "Высшая школа экономики". 
+продолжительность: 9 недель.
+язык: русский
+
+https://www.coursera.org/learn/mathematics-and-python - Математика и Python для анализа данных (Доступ к курсу бесплатный. Проверка заданий платная.)
+автор: Московский физико-технический институт, Яндекс & E-Learning Development Fund
+продолжительность: 4 недели.
+язык: русский
+
+https://stepik.org/course/3356/promo - Практикум по математике и Python (Полный бесплатный доступ.)
+
+Введение в Python. Практикум
+
+https://www.coursera.org/learn/diving-in-python - Погружение в Python. (Доступ к курсу бесплатный. Проверка заданий платная.)
+автор: Московский физико-технический институт, Mail.Ru Group & ФРОО
+продолжительность: 6 недель.
+язык: русский
+
+https://www.coursera.org/learn/python-crash-course/home/welcome - Crash Course on Python
+автор: Google
+продолжительность: 6 недель.
+язык: английский
+
+https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome - Python for Data Science and AI
+автор: IBM
+продолжительность: 5 недель.
+язык: английский
+
+https://www.coursera.org/learn/python-for-data-visualization - Data Visualization with Python
+автор: IBM
+продолжительность: 3 недели.
+язык: английский
