@@ -1,0 +1,23 @@
+https://younglinux.info/python.php - Python. Введение в программирование
+https://python-scripts.com/virtualenv - создание виртуального окружения и зачем оно
+https://geekbrains.ru/posts/python_packages - Как устанавливать пакеты в Python — с PIP и без
+https://python-scripts.com/python-3-7 - Полный обзор новой версии Python 3.7
+https://www.python.org/dev/peps/pep-0008/ - PEP 8 -- Style Guide for Python Code
+https://github.com/vinta/awesome-python - Коллекция хороших библиотек на GitHub для решения всевозможных задач
+https://docs.python.org/3/library/stdtypes.html - Built-in Types
+http://acm.mipt.ru/twiki/bin/view/Cintro/PythonNumpy - отличный обзор библиотеки numpy на одной странице
+https://docs.python.org/3/tutorial/datastructures.html - Data Structures
+https://www.hackerrank.com - сайт с задачами в игровой форме
+https://py.checkio.org/ - ещё один сайт с задачами в игровой форме
+
+https://github.com/amkatrutsa/nla2019_ozon - Numerical Linear Algebra course in OZON Masters на русском!
+https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html - наглядное сравнение классификаторов
+https://alexanderdyakonov.wordpress.com/2017/12/25/определение-вероятности-невозврата - решение задачи А.Дьяконова
+https://catboost.ai/ - библиотека градиентного бустинга Catboost от Яндекс
+https://stepik.org/course/50352/syllabus - отличный небольшой курс по нейронным сетям на pytorch
+https://www.asozykin.ru/courses/nnpython - курс от Андрея Созыкина по нейросетям на Keras в Google Colab
+
+https://habr.com/ru/post/467803/ - Элементарная симуляция кастомного физического взаимодействия на python + matplotlib
+http://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch38.html - Уравнение Навье-Стокса и симуляция жидкостей на CUDA
+
+https://www.coursera.org/learn/python-osnovy-programmirovaniya - супер простой курс по python, с кучей задачек, которые проверяются автоматически - бесплатно!!!
